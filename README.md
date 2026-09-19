@@ -39,3 +39,32 @@ I'm a **[Your Role, e.g., Full-Stack Developer / Data Scientist / Mobile Enginee
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://yourwebsite.com)
 
+
+
+
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate developer building web & mobile experiences</h3>
+
+<p align="center">
+  <a href="https://yourwebsite.com">Website</a> •
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://twitter.com/YOUR_TWITTER">Twitter</a>
+</p>
+
+---
+
+### 💫 About Me
+```javascript
+const developer = {
+    name: '[Your Name]',
+    role: '[Your Role]',
+    code: ['JavaScript', 'Python', 'TypeScript', 'Go'],
+    technologies: {
+        frontEnd: ['React', 'Next.js', 'TailwindCSS'],
+        backEnd: ['Node.js', 'Express', 'PostgreSQL'],
+        devOps: ['Docker', 'AWS', 'GitHub Actions']
+    },
+    currentFocus: 'Building scalable microservices',
+    funFact: 'Powered by ☕ and open-source software'
+};
+
